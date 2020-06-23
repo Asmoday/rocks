@@ -1,8 +1,8 @@
 package = "kafka"
 version = "scm-1"
 source = {
-    url = "git://github.com:Asmoday/kafka.git",
-    branch = 'master',
+    url = "https://github.com/Asmoday/kafka/archive/master.zip",
+    dir = "kafka-master",
 }
 description = {
     summary = "Kafka library for Tarantool",
